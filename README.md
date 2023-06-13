@@ -1,4 +1,4 @@
-# Microsoft-Azure-Virtual-Machine-Creation-and-Connection
+# How to create a Virtual Machine with Microsoft Azure
 
 <p align="center">
 <img src="https://i.imgur.com/1xqjWZ6.png" alt="osTicket logo"/>
